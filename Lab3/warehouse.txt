@@ -1,0 +1,19 @@
+08.12.2022 18:13:09 5 items of Salt.
+08.12.2022 18:13:09 5 items of Fish.
+08.12.2022 18:13:09 5 items of Boar.
+08.12.2022 18:13:09 5 items of Fish.
+08.12.2022 18:13:10 5 items of Boar sold - 0 items of Boar.
+08.12.2022 18:13:12 5 items of Fish sold - 0 items of Fish.
+08.12.2022 18:13:14 5 items of Salt added after 3 seconds.
+08.12.2022 18:13:14 5 items of Fish added after 3 seconds.
+08.12.2022 18:13:14 5 items of Boar added after 3 seconds.
+08.12.2022 18:13:14 5 items of Fish added after 3 seconds.
+08.12.2022 18:13:14 5 items of Boar sold - 0 items of Boar.
+08.12.2022 18:13:17 5 items of Salt sold - 5 items of Salt.
+08.12.2022 18:13:19 5 items of Fish sold - 0 items of Salt.
+08.12.2022 18:13:20 5 items of Salt added after 3 seconds.
+08.12.2022 18:13:20 5 items of Fish added after 3 seconds.
+08.12.2022 18:13:20 5 items of Boar added after 3 seconds.
+08.12.2022 18:13:20 5 items of Fish added after 3 seconds.
+08.12.2022 18:13:24 5 items of Fish sold - 0 items of Salt.
+08.12.2022 18:13:25 5 items of Salt sold - 5 items of Salt.

@@ -1,0 +1,12 @@
+08.12.2022 17:40:54 The Peer ID  5 has issued a lookup request to the trader for the item  Salt to Trader 1
+08.12.2022 17:40:56 The Peer ID  7 has issued a lookup request to the trader for the item  Boar to Trader 1
+08.12.2022 17:40:56 The Peer ID  3 has issued a lookup request to the trader for the item  Fish to Trader 1
+08.12.2022 17:41:03 The Peer ID  3  has bought the item  Fish  from the seller with the ID  4  via Trader 1
+08.12.2022 17:41:05 The Peer ID  1 has issued a lookup request to the trader for the item  Salt to Trader 1
+08.12.2022 17:41:05 The Peer ID  2  has received the Msg
+08.12.2022 17:41:08 The Peer ID  5 has issued a lookup request to the trader for the item  Fish to Trader 1
+08.12.2022 17:41:08 The Peer ID  3 has issued a lookup request to the trader for the item  Salt to Trader 1
+08.12.2022 17:41:10 The Peer ID  7  has bought the item  Boar  from the seller with the ID  8  via Trader 1
+08.12.2022 17:41:11 The Peer ID  7 has issued a lookup request to the trader for the item  Salt to Trader 1
+08.12.2022 17:41:11 The Peer ID  3 has issued a lookup request to the trader for the item  Boar to Trader 1
+08.12.2022 17:41:13 The Peer ID  1  has bought the item  Salt  from the seller with the ID  6  via Trader 1
